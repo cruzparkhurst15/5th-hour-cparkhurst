@@ -39,8 +39,11 @@ attacers={
 
     },
 
-    },
+    }
 print(attacers)
-attacers =int(input("damage"))
-print(attacers)
-print(attacers)
+attacers["lion"].update({"damage" : int(input("what do u want the new damage to be?"))})
+attacers["Dokkaebi"].update({"damage" : int(input("what do u want the new damage to be?"))})
+attacers["Amaru"].update({"damage" : int(input("what do u want the new damage to be?"))})
+attacers["Solid Snake"].update({"damage" : int(input("what do u want the new damage to be?"))})
+attacers["Sens"].update({"damage" : int(input("what do u want the new damage to be?"))})
+print (attacers)
