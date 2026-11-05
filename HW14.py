@@ -1,4 +1,4 @@
-#Name:
+#Name:Cruz parkhurst
 #Class: 5th Hour
 #Assignment: HW14
 import random as r
